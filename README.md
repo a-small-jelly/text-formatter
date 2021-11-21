@@ -1,1 +1,1 @@
-# text-formatter
+Initially just a solution for changing comma-separated lists to lists with line breaks, but I added a button to do the reverse, and then to alt case, so this is just here for me to add fun text formatting options as I think of them.
