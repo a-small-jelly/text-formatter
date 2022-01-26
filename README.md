@@ -1,1 +1,1 @@
-Initially just a solution for changing comma-separated lists to lists with line breaks, but I added a button to do the reverse, and then to alt case, so this is just here for me to add fun text formatting options as I think of them.
+initially a solution for chaanging comma-separated lists to lists with line breaks and vice-versa. from there, i just add fun text formatting buttons as i have a use for them. 
